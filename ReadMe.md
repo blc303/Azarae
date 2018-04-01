@@ -1,5 +1,3 @@
-#Asarae
-
 ## Description
 A simple project to test solution structure and compliation for multi-level enterprise applications using MvvM and having different UI applications.
 
